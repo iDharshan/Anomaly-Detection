@@ -1,2 +1,3 @@
 # Anomaly-Detection
-Anomaly Detection with PyCaret: Efficiently detect anomalies using IForest and SVM models. Leverage PyCaret for advanced anomaly detection, plot TSNE and MAP visuals. Explore data patterns and abnormalities in this GitHub repo. Unlock the power of PyCaret for anomaly detection!
+
+Anomaly Detection with PyCaret: This GitHub repository presents an anomaly detection project utilizing PyCaret, iForest, SVM models, and insightful visualizations. Leveraging the power of PyCaret, we have developed a robust anomaly detection solution using state-of-the-art algorithms. By applying iForest and SVM models to a mice dataset, we identify and highlight anomalies within the data. Additionally, we provide intuitive visualizations using t-SNE and map plots to gain deeper insights into the detected anomalies. Explore this repository to understand anomaly detection techniques, visualize results, and unlock the potential of PyCaret for anomaly detection tasks.
